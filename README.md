@@ -1,8 +1,9 @@
-# WP2_AI_for_Finance
+# MSCA DN DIGITAL WP2: AI for Finance
 
 - Lead Beneficiary: WU Vienna.
 - Researchers involved: See link
-- WU Vienna (Lead): Bettina Grün, Kurt Hornik, Ronald Hochreiter
+- Work Package Leader: [Ronald Hochreiter](https://hochreiter.xyz/), WU Vienna University of Economics and Business
+- WU Vienna Team: Bettina Grün, Kurt Hornik, Ronald Hochreiter
 - ASE Bucharest: Adrian Costea, Daniel Traian Pele, Vasile Strat
 - Cardo AI: Gennaro Di Brino, Federico Giudici, Stefano Panazzi
 - University of Twente: Abhista Abhista, Ekaterina Svetlova, Joerg Osterrieder, Jos van Hillegersberg, Laura Spierdijk, Marcos Machado, Martijn Mes, Wouter van Heeswijk
