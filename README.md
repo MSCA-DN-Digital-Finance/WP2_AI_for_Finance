@@ -9,7 +9,7 @@
 - University of Twente: Abhista Abhista, Ekaterina Svetlova, Joerg Osterrieder, Jos van Hillegersberg, Laura Spierdijk, Marcos Machado, Martijn Mes, Wouter van Heeswijk
 - Active period: From M4 to M48.
 - Activity type: Research.
-- Early Stage Researchers involved: 1, 12 & 14.
+- Early Stage Researchers involved: 12 & 14.
 
 ## Objectives
 The WP will work on enabling the use of complex AI models in real-world financial settings.
